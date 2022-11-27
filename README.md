@@ -1,2 +1,2 @@
 HangC/README.md
-I'm HangC, a software engineer who occasionally ponders some odd questions.
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=caicancai)](https://github.com/anuraghazra/github-readme-stats)
