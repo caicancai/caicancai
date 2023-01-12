@@ -8,8 +8,8 @@ I'm HangC, a software engineer who occasionally ponders some odd questions.
 🙃 Github Activity
 
 <div align="center"> 
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=caicancai&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,52fa5a&theme=graywhite" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caicancai&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,c64dff&theme=graywhite" /> 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caicancai)](https://github.com/Christmas/github-readme-stats)
+  [HangC's GitHub stats](https://github-readme-stats.vercel.app/api?usernamecaicancai&show_icons=true&theme=tokyonight)
 </div>
 
 Here are some ideas to get you started:
