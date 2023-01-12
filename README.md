@@ -7,10 +7,7 @@ I'm HangC, a software engineer who occasionally ponders some odd questions.
 
 🙃 Github Activity
 
-<div align="center"> 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caicancai)](https://github.com/Christmas/github-readme-stats)
-  [HangC's GitHub stats](https://github-readme-stats.vercel.app/api?usernamecaicancai&show_icons=true&theme=tokyonight)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caicancai&layout=compact)](https://github.com/caicancai/github-readme-stats)
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
