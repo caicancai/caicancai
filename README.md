@@ -3,7 +3,7 @@
 Hola Amigo 🤣
 I'm HangC，A programming beginner in 2002.
 
-I am interested in database, I have a dream of database.
+I am interested in bigdata and database, I have a dream of database.
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=caicancai)
 ![HangC's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caicancai&layout=compact&hide_border=true&langs_count=10)
