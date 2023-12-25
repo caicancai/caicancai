@@ -5,7 +5,7 @@ I am interested in bigdata and database, I have a dream of database.
 
 Here are some interesting communities I'm involved in:
 
-[Streampark](https://github.com/apache/incubator-streampark): StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform
+[Streampark](https://github.com/apache/incubator-streampark): Make stream processing easier! easy-to-use streaming application development framework and operation platform
 
 [Calcite](https://github.com/apache/calcite): Apache Calcite is a dynamic data management framework.
 
