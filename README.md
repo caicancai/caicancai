@@ -5,8 +5,8 @@ I am interested in bigdata and database, I have a dream of database.
 
 Here are some interesting communities I'm involved in:
 
-- [Streampark](https://github.com/apache/incubator-streampark)
-- [Calcite](https://github.com/apache/calcite)
+- [Apache Streampark](https://github.com/apache/incubator-streampark)
+- [Apache Calcite](https://github.com/apache/calcite)
 - [Risinglight](https://github.com/risinglightdb/risinglight)
   
 ![caicancai's GitHub stats](https://github-readme-stats.vercel.app/api?username=caicancai)
