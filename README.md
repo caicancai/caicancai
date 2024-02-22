@@ -11,6 +11,12 @@ Here are some interesting communities I'm involved in:
 - [Apache Calcite](https://github.com/apache/calcite) : Apache Calcite is a dynamic data management framework
 - [Apache Arrow-datafusion](https://github.com/apache/arrow-datafusion) : Apache Arrow DataFusion SQL Query Engine 
 - [Risinglight](https://github.com/risinglightdb/risinglight) : An educational OLAP database system
+
+
+I also like to translate some documents in my spare time, but my English is not very good. If there are any problems with the translation, please correct me.
+
+- [paper](https://github.com/caicancai/paper_reading_cn)
+- [Stream-Systems](https://github.com/caicancai/Streaming-Systems_CN)
   
 ![caicancai's GitHub stats](https://github-readme-stats.vercel.app/api?username=caicancai)
 ![caiacancai's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caicancai&layout=compact&hide_border=true&langs_count=10)
