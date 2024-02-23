@@ -13,7 +13,7 @@ Here are some interesting communities I'm involved in:
 - [Risinglight](https://github.com/risinglightdb/risinglight) : An educational OLAP database system
 
 
-I also like to translate some documents in my spare time, but my English is not very good. If there are any problems with the translation, please correct me.
+I also like to translate some documents in my spare time, but my English is not very good.
 
 - [paper](https://github.com/caicancai/paper_reading_cn)
 - [Streaming-Systems](https://github.com/caicancai/Streaming-Systems_CN)
