@@ -1,7 +1,7 @@
 # Hi👋
 I'm Caican Cai, A programming beginner in 2002.
 
-I work on big data.I am interested in sql engine and streaming system, I have a dream of streaming query.
+I work on big data. I am interested in sql engine and streaming system, I have a dream of streaming query.
 
 Reach me: cancai@apache.org
 
