@@ -20,7 +20,8 @@ I also like to translate some documents in my spare time, but my English is not 
   
 ![caicancai's GitHub stats](https://github-readme-stats.vercel.app/api?username=caicancai)
 ![caiacancai's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caicancai&layout=compact&hide_border=true&langs_count=10)
-[![caicancai](https://github-readme-activity-graph.vercel.app/graph?username=caicancai&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![图片](https://github.com/caicancai/caicancai/assets/77189278/b214f652-ad4c-4391-b049-781092f7aac0)
+
 
 **ps: I've been looking for the meaning of my coding**
 
