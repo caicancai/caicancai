@@ -8,9 +8,7 @@ Reach me: cancai@apache.org
 Here are some interesting communities I'm involved in:
 
 - [Apache Calcite](https://github.com/apache/calcite) : Apache Calcite is a dynamic data management framework
-- [Flink Kubernetes Operator](https://github.com/apache/flink-kubernetes-operator) : Apache Flink Kubernetes Operator
 - [Risinglight](https://github.com/risinglightdb/risinglight) : An educational OLAP database system
-- [Sofa-jraft](https://github.com/sofastack/sofa-jraft):  A production-grade java implementation of RAFT consensus algorithm
 
 I also like to translate some documents in my spare time, but my English is not very good.
 
