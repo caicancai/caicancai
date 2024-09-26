@@ -19,5 +19,5 @@ I also like to translate some documents in my spare time, but my English is not 
 ![caiacancai's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caicancai&layout=compact&hide_border=true&langs_count=10)
 
 
-**ps: I've been looking for the meaning of my coding**
+**ps: 这个人是个垃圾，什么也不会，代码只会curd**
 
