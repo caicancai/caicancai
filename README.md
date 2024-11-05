@@ -9,7 +9,7 @@ Here are some interesting communities I'm involved in:
 
 - [Apache Calcite](https://github.com/apache/calcite) : Apache Calcite is a dynamic data management framework
 - [Risinglight](https://github.com/risinglightdb/risinglight) : An educational OLAP database system
-- [Pebble](https://github.com/cockroachdb/pebble) : RocksDB/LevelDB inspired key-value database in Go
+- [Datafusion-java](https://github.com/datafusion-contrib/datafusion-java) : Java binding to Apache DataFusion
 
 I also like to translate some documents in my spare time, but my English is not very good.
 
