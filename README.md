@@ -1,7 +1,7 @@
 # Hi👋
 I'm Cancai Cai, a programming beginner born in 2002.
 
-I work on big data. I am interested in sql engine and streaming system, I have a dream of streaming query.
+I work on big data. I am interested in sql engine and streaming system, My dream is to create a meaningful computer system.
 
 Reach me: cancai@apache.org
 
@@ -18,6 +18,4 @@ I also like to translate some documents in my spare time, but my English is not 
 ![caicancai's GitHub stats](https://github-readme-stats.vercel.app/api?username=caicancai)
 ![caiacancai's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caicancai&layout=compact&hide_border=true&langs_count=10)
 
-
-**ps: 这个人是个垃圾，什么也不会，代码只会curd**
 
